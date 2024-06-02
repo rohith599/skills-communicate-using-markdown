@@ -5,3 +5,6 @@
 { "key": 23,
 "key2": "string value"}
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
